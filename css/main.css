@@ -10,6 +10,10 @@ a {
   text-decoration: none;
   color: var(--text-color);
 }
+h1 {
+  font-size: 150%;
+  font-weight: bold;
+}
 .navbar {
   display: flex;
   justify-content: space-between;
